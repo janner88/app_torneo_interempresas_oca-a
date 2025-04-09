@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223272543493",
+    "project_id": "torneo-futbol-app-73d84",
+    "storage_bucket": "torneo-futbol-app-73d84.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223272543493:android:4982a2f4e47295b943036c",
+        "android_client_info": {
+          "package_name": "com.example.torneoInterempresasApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACpGY8sy_u27sBkviHC5BlFxCAvwSEIXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
